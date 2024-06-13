@@ -42,6 +42,7 @@ This script retrieves passwords from the Chrome browser and sends them to a Tele
    pywin32
    pycryptodome
    requests
+   keyring
    ```
 
 ## Usage
